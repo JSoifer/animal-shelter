@@ -1,0 +1,30 @@
+.Dogs {
+border: 4px solid blue;
+margin-bottom: 20px;
+padding: 4px;
+}
+
+.Cats {
+  border: 4px solid red;
+  margin-top: 15px;
+  padding: 4px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.Sparkle {
+
+	font-size:100px;
+	font-family:impact;
+
+ -webkit-text-fill-color: transparent;
+ background: -webkit-linear-gradient(transparent, transparent),
+             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+ background: -o-linear-gradient(transparent, transparent);
+ -webkit-background-clip: text;
+}
